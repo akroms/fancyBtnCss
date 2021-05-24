@@ -211,11 +211,10 @@
   outline: none;
 }
 
-  .gradient-buttosn-2:hover {
+  .gradient-button-2:hover {
     background-size: 100%;
     background-image: linear-gradient( to right, orangered, transparent );
     color: white;
     border-right:none;
   }
 
-  
